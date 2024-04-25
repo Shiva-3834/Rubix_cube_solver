@@ -1,0 +1,3 @@
+C:/Algozenith/Projects/cmake-build-debug/CMakeFiles/Projects.dir
+C:/Algozenith/Projects/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Algozenith/Projects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
